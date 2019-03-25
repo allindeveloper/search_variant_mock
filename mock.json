@@ -1,0 +1,47 @@
+[
+  {
+    "id":"1",
+    "firstname": "Precious",
+    "lastname": "Uchendu",
+    "age": "29",
+    "state": "Abia",
+    "email":"uchendubozz@gmail.com",
+    "country":"nigeria"
+  },
+  {
+    "id":"2",
+    "firstname": "Bolu",
+    "lastname": "Joke",
+    "age": "32",
+    "state": "Ogun",
+    "email":"bolu.joke@outlook.com",
+    "country":"america"
+  },
+  {
+    "id":"3",
+    "firstname": "Joy",
+    "lastname": "Iyke",
+    "age": "19",
+    "state": "Imo",
+    "email":"joy.iyke@gmail.com",
+    "country":"cameroun"
+  },
+  {
+    "id":"4",
+    "firstname": "Farouk",
+    "lastname": "Giwen",
+    "age": "45",
+    "state": "Kwara",
+    "email":"farouk.giwen@gmail.com",
+    "country":"ghana"
+  },
+  {
+    "id":"5",
+    "firstname": "Joshua",
+    "lastname": "Joshua",
+    "age": "22",
+    "state": "Lagos",
+    "email":"joshua.joshua@gmail.com",
+    "country":"nigeria"
+  }
+]
